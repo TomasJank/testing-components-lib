@@ -1,11 +1,11 @@
 {
-  "name": "would-this-work",
+  "name": "testing-components-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/would-this-work.ssr.js",
-  "browser": "dist/would-this-work.esm.js",
-  "module": "dist/would-this-work.esm.js",
-  "unpkg": "dist/would-this-work.min.js",
+  "main": "dist/testing-components-lib.ssr.js",
+  "browser": "dist/testing-components-lib.esm.js",
+  "module": "dist/testing-components-lib.esm.js",
+  "unpkg": "dist/testing-components-lib.min.js",
   "files": [
     "dist/*",
     "src/**/*.vue"
